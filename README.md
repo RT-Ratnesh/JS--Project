@@ -1,1 +1,1 @@
-MetaCrafters JavaScript Proof - Project
+**MetaCrafters JavaScript Proof - Project**
